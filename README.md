@@ -90,6 +90,6 @@ void loop()
 ![output](op3.png)
 
 ![output](op2.png)
-
+ 
 # RESULT: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
